@@ -8,10 +8,10 @@ No external dependencies required -- just plain Python.
 Made with passion by Refliqx
 
 ## Features
-   Add new contacts
-   update the contacts
-   View all saved contacts
-   Search for contacts by name
+   Add new contacts,
+   update the contacts,
+   View all saved contacts,
+   Search for contacts by name,
    Delete existing contacts
 
 ## How to Run
